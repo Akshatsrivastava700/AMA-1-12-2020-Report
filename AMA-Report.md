@@ -1,4 +1,4 @@
-# AMA Technical Paper
+# AMA Session Report 1/12/2020
 
 ## Difference between "==" and "===" in JS :
 
