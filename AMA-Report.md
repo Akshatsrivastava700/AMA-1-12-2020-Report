@@ -435,3 +435,13 @@ A media query computes to true when the media type (if specified) matches the de
 		* Relative to the viewport’s height.
 		
 		* VH stands for “viewport height”, which is the viewable screen’s height. 100VH would represent 100% of the viewport’s height, or the full height of the screen.
+		
+##References :
+
+* https://en.wikipedia.org/wiki/UTF-8
+* https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/#:~:text=While%20PX%2C%20EM%2C%20and%20REM,full%20height%20of%20the%20screen.
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+* https://www.kirupa.com/html5/finding_elements_dom_using_querySelector.htm
+* https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+* https://www.tutorialspoint.com/ruby/ruby_variables.htm
+* https://www.tutorialspoint.com/nodejs/nodejs_npm.htm
